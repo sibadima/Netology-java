@@ -1,0 +1,12 @@
+Каталог создан: .\src\main\java\ru\netology\core\homework03\Games\src
+Каталог создан: .\src\main\java\ru\netology\core\homework03\Games\res
+Каталог создан: .\src\main\java\ru\netology\core\homework03\Games\savegames
+Каталог создан: .\src\main\java\ru\netology\core\homework03\Games\temp
+Каталог создан: .\src\main\java\ru\netology\core\homework03\Games\src\main
+Каталог создан: .\src\main\java\ru\netology\core\homework03\Games\src\test
+Файл создан: .\src\main\java\ru\netology\core\homework03\Games\src\main\Main.java
+Файл создан: .\src\main\java\ru\netology\core\homework03\Games\src\main\Utils.java
+Каталог создан: .\src\main\java\ru\netology\core\homework03\Games\res\drawables
+Каталог создан: .\src\main\java\ru\netology\core\homework03\Games\res\vectors
+Каталог создан: .\src\main\java\ru\netology\core\homework03\Games\res\icons
+Файл создан: .\src\main\java\ru\netology\core\homework03\Games\temp\temp.txt
