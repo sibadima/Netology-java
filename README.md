@@ -8,4 +8,4 @@
 
 [№3. Условные операторы и циклы](https://github.com/sibadima/javahomeworks-ifelse/blob/main/Main.java)
 
-[№4. 
+[№4. Типы данных в Java: примитивы](https://github.com/sibadima/javahomeworks-HWPRIMITIVES/blob/main/Main.java)
