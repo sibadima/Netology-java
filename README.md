@@ -6,6 +6,6 @@
 
 [№2. Структура программы](https://github.com/sibadima/javahomeworks-hwstructure/tree/main)
 
-[№3. Условные операторы и циклы]()
+[№3. Условные операторы и циклы](https://github.com/sibadima/javahomeworks-ifelse/blob/main/Main.java)
 
 [№4. 
